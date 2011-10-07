@@ -1,0 +1,156 @@
+div#masthead {
+background:transparent url('http://ebmakerfaire.files.wordpress.com/2011/08/ebmmf-wordpress-banner-770.png') no-repeat 0 0;
+display:block;
+overflow:hidden;
+text-indent:2000px;
+height:120px;
+width:100%;
+border-top:none;
+white-space:nowrap;
+margin-bottom:0;
+}
+
+#masthead h1 a {
+color:transparent;
+}
+
+ul#nav li:first-child {
+display:none;
+}
+
+ul#nav {
+background:none;
+border-bottom:1px dotted black;
+margin-bottom:20px;
+}
+
+.widget-title {
+border-bottom:none;
+border-top:#b1cc51 2px solid;
+font-family:"Helvetica Neue",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+font-size:13px;
+font-weight:bold;
+letter-spacing:.025em;
+text-transform:uppercase;
+margin:0 0 4px;
+padding:4px 2px 2px;
+}
+
+#access {
+border:none;
+padding:0;
+}
+
+#access a,#access a:hover {
+margin:0;
+padding:0 8px;
+}
+
+#access ul {
+list-style:none;
+padding:0;
+}
+
+#access ul ul a {
+background-color:transparent;
+padding:0;
+}
+
+#access li:hover > a,#access ul ul:hover > a {
+background:none;
+background-color:transparent;
+}
+
+#access .page_item,#access .page_item a {
+color:#fff;
+margin-right:3px;
+margin-bottom:3px;
+}
+
+.menu {
+border-bottom:#b1cc51 3px solid;
+}
+
+#access div.menu ul li:first-child a {
+background-color:#ed1c24;
+color:#fff;
+margin-right:6px;
+padding:0 8px;
+}
+
+#access div.menu ul li:first-child a:hover {
+border-bottom:3px solid #00aeef;
+color:#fff;
+margin-right:6px;
+margin-bottom:0;
+padding:0 8px;
+}
+
+#access .page-item-2 a {
+background-color:#b1cc51;
+}
+
+#access .page-item-2 a:hover {
+background-color:#b1cc51;
+border-bottom:3px solid #92278f;
+margin-bottom:0;
+}
+
+#access .page-item-1034 a {
+background-color:#00aeef;
+}
+
+#access .page-item-1034 a:hover {
+background-color:#00aeef;
+border-bottom:3px solid #27922a;
+margin-bottom:0;
+}
+
+#access .page-item-22 a {
+background-color:#27922a;
+}
+
+#access .page-item-22 a:hover {
+background-color:#27922a;
+border-bottom:3px solid #ffcb05;
+margin-bottom:0;
+}
+
+#access .page-item-213 a {
+background-color:#92278f;
+}
+
+#access .page-item-213 a:hover {
+background-color:#92278f;
+border-bottom:3px solid #b1cc51;
+margin-bottom:0;
+}
+
+#access .page-item-12 a {
+background-color:#ffcb05;
+}
+
+#access .page-item-12 a:hover {
+background-color:#ffcb05;
+border-bottom:3px solid #ed1c24;
+margin-bottom:0;
+}
+
+#facebook-likebox-3 {
+margin-bottom:0;
+}
+
+.two-column #footer .widget-area {
+width:100%;
+}
+
+  .widget_author_grid ul { overflow: hidden; }
+  .widget_author_grid ul li { background: none !important; clear: none !important; float: left !important; margin: 0 -5px -3px 0 !important; padding: 0 8px 6px 0 !important; border: none !important; list-style: none !important; }
+  .widget_author_grid ul li a { background: none !important; margin: 0 !important; padding: 0 !important; border: 0 !important; }
+  .widget_author_grid .avatar { vertical-align: middle; }
+
+  .reblog-from img                 { margin: 0 10px 0 0; vertical-align: middle; padding: 0; border: 0; }
+  .reblogger-note img.avatar       { float: left; padding: 0; border: 0; }
+  .reblogger-note-content          { margin: 0 0 20px 35px; }
+  .reblog-post                     { border-left: 3px solid #eee; padding-left: 15px; }
+
